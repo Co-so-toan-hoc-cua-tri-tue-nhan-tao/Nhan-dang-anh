@@ -1,0 +1,17 @@
+Django
+numpy
+pandas
+scipy
+certifi
+django-markdown
+Pillow
+matplotlib
+pymysql
+mysqlclient
+scikit_learn
+sklearn
+django-markdown-deux
+django-markdownx
+django-bootstrap-datepicker-plus
+django-zxcvbn-password
+social-auth-app-django
